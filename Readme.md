@@ -14,7 +14,9 @@ Har bir html varaqni oz viloyatiga mos korinishda chiqarish: 3 ta button ega bol
 >uchinchi buttonda "Место нахождения на карте мира"
    va har bir html varaqda shu usulni qollash!
    |Viloyat| Administratsiya|
+|------||:------:|
    |Xorazm| Urganch|
+
 ####Footer
   buyerda har bir varaqda bolganidek boshqa ijtimoiy tarmoqlarga oz saytimni   qo'shish uchun **fa fa-ijtimoiy tarmoq nomi** dan
 foydalanish. Tasix da gi boshqa saytlarga havo orqali murojat qilish uchun bir necha davlat saytlarini qoshish.   daryo.uz hushnudbek.uz lex.uz
