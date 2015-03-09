@@ -1,24 +1,21 @@
-#The Pearl of Central Asia
-Saytning nomi “ Жемчужина средней Азии” unda O’zbekiston Respublikasi haqida, uning tarixi hozirgi kundagi sharoiti turizm hududiy bolinishi iqtisodi va ta’limi  haqida foydalanuvchi qiziq malumotlarni olishi mumkin.
-Saytda respublikaning har bir viloyati haqida va avtanom respublikasi haqida batafsil ma’lumot beriladi yani:  “navbar” da  bosh sahifa =1“Узбекистан”  2“Погода” 3“ Место нахождения на карте мира ” 4“Поиск ” 5 “Новости”.
-*1.	Bosh sahifada “Узбекистан”   “carousel slide” rasmlar O’zbekiston haqida umumiy malumot, 12 viloyat uchun va avto.. res.. uchun 13 ta “button info”  havoga ega bolgan.*
-*2.	“Погода” havodan foydalanish <a href=http://pogoda.uz>*
-*3.	“Место нахождения на карте мира” havodan foydalanish <a href=http://maps.google.com>*
-*4.	“Поиск” Saytdagi viloyatlarni va Shaharlarni qidirish va foydalanuvchiga korsatish Search da faqat viloyat nomi va unga tegishli margaziy shaharni qidirish.*
-*5.	“Новости” havodan boshqa saytga murojat qilish <a href=http://daryo.uz> *
+##The Pearl of Central Asia
+Saytning nomi **Жемчужина средней Азии** unda O’zbekiston Respublikasi haqida, uning tarixi hozirgi kundagi sharoiti, turizm hududiy bolinishi, siyosati va iqtisodi haqida foydalanuvchi qiziq malumotlarni olishi mumkin.
+  Shuningdek saytda respublikamizning har bir viloyati haqida va avtanom respublikasi haqida batafsil ma’lumot beriladi.  Saytda O'zbekistondagi yangilinglardan  “navbar” da bosh sahifa: 1**Узбекистан**  2**Погода** 3**Место нахождения на карте мира** 4**Поиск**  5**Новости**.
+  Saytni korinishini **Minimalizm** usulidan foydalanib tuzish!   Navbarni saytning menusisni o'ng tarafdan collapse usulidan foydalanib chiqarish
+*1.	Bosh sahifada "Узбекистан" “carousel slide” rasmlar O’zbekiston haqida umumiy ma'lumot, 12 viloyat va avtonom respublikasi   uchun umumiy 13 ta “img”  havoga ega bolgan.
+*2.	“Погода” havodan foydalanish  [ob-havo](http://pogoda.uz)
+*3.	“Место нахождения на карте мира” havodan foydalanish [Xaritadagi joylashishi](http://maps.google.com)
+*4.	“Поиск” Saytdagi viloyatlarni qidirib topib foydalanuvchig korsatish.
+*5.	“Новости” havodan boshqa saytga murojat qilish [O'zb yangiliklari](http://daryo.uz)
 
-Har bir html varaqni oz viloyatiga mos korinishda chiqarish:  text har bir html varaqda “carousel slide”  shu viloyatdagi yoki shahardagi  ob-havo va sana chiqib turadi.
-Pastida 2 button 1. “фотогалерея” 2.”Область на карте”
-1.”Фотогалерея” havodan boshqa saytga murojat qilish
-2.”Область на карте” havodan  <a href=http://maps.google.com>  murojat qilish
-Malumot…img… text…
+Har bir html varaqni oz viloyatiga mos korinishda chiqarish: 3 ta button ega bolgan holda.
+> birinchi buttonda fotogalereya
+>ikkinchi buttonda  "информация из википедии"
+>uchinchi buttonda "Место нахождения на карте мира"
+   va har bir html varaqda shu usulni qollash!
 
-
-
-
-<footer>
-da <social share>  “fa fa-facebook” “fa fa-twitter” “fa fa-ok” boshqa ijtimoiy tarmoqlada oz saytimni qo’shish. Wep Development saytni yaratuvchilari haqida
-
-
+####Footer
+  buyerda har bir varaqda bolganidek boshqa ijtimoiy tarmoqlarga oz saytimni   qo'shish uchun **fa fa-ijtimoiy tarmoq nomi** dan
+foydalanish. Tasix da gi boshqa saytlarga havo orqali murojat qilish uchun bir necha davlat saytlarini qoshish.   daryo.uz hushnudbek.uz lex.uz
 
 
