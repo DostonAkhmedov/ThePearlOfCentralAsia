@@ -7,18 +7,16 @@ Saytning nomi **Жемчужина средней Азии** unda O’zbekiston 
   >3.	“Место нахождения на карте мира” havodan foydalanish [Xaritadagi joylashishi](http://maps.google.com)
   >4.	“Поиск” Saytdagi viloyatlarni qidirib topib foydalanuvchig korsatish.
   >5.	“Новости” havodan boshqa saytga murojat qilish [O'zb yangiliklari](http://daryo.uz)
-
+--------
 Har bir html varaqni oz viloyatiga mos korinishda chiqarish: 3 ta button ega bolgan holda.
 > birinchi buttonda fotogalereya
->ikkinchi buttonda  "информация из википедии"
+>>ikkinchi buttonda  "информация из википедии"
 >uchinchi buttonda "Место нахождения на карте мира"
-   va har bir html varaqda shu usulni qollash!
-   |Viloyat| Administratsiya|
-|------||:------:|
-   |Xorazm| Urganch|
+  >> va har bir html varaqda shu usulni qollash!
+
 
 ####Footer
   buyerda har bir varaqda bolganidek boshqa ijtimoiy tarmoqlarga oz saytimni   qo'shish uchun **fa fa-ijtimoiy tarmoq nomi** dan
-foydalanish. Tasix da gi boshqa saytlarga havo orqali murojat qilish uchun bir necha davlat saytlarini qoshish.   daryo.uz hushnudbek.uz lex.uz
+foydalanish. Tasix da gi boshqa saytlarga havo orqali murojat qilish uchun bir necha davlat saytlarini qoshish.   _daryo.uz_  _hushnudbek.uz_  _lex.uz_
 
 
