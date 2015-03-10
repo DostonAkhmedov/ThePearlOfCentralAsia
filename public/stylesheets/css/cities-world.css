@@ -1,0 +1,90 @@
+.main-bg{
+    background-color:#e1edf7;
+}
+.top-bar{
+    padding-top: 1px;
+    border-bottom: InactiveCaptionText;
+    background-color: #000000;
+}
+
+.top-number{
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.top-number:hover{
+    color: red;
+    font-size: 24px;
+}
+.social-share>li>a{
+    font-size: 20px;
+    color: #ffffff;
+    background: fixed;
+    width: 35px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.social-share>li>a:hover{
+    color: mediumblue;
+    font-size: 24px;
+    background: red;
+}
+.navbar-brand{
+    padding-top: 20px;
+    margin-top: -30px;
+}
+.navbar-inverse{
+    background-color:#000000;
+}
+.navbar-nav>li>a{
+font-size: 17px;
+
+}
+.navbar-nav>li>a:hover{
+    font-size: 20px;
+    background: #000000;
+
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: #ffffff;
+    margin-top: 12px;
+
+}
+.navbar-inverse .navbar-nav li a i{
+    color: red;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+    background-color: #007BB6;
+    color:#ffffff;
+}
+.dropdown-menu {
+    background-color: #000000;
+    color: red;
+
+}
+.dropdown-menu. li a :hover{
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+.text-center:hover{
+    font-size: 55px;
+    color: red;
+}
+.carousel-inner{
+    width: 100%;
+    height: 50%;
+}
+#footer ul > li:hover {
+    color: red;
+}
+#footer{
+    background-color: #000000;
+    margin-top: 150px;
+    padding: 15px;
+}
