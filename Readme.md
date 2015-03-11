@@ -8,12 +8,12 @@ Saytning nomi **Жемчужина средней Азии** unda O’zbekiston 
   >3.	“Новости” havodan boshqa saytga murojat qilish [O'zb yangiliklari](http://daryo.uz)
   >4.	“Место нахождения на карте мира” havodan foydalanish [Xaritadagi joylashishi](http://maps.google.com)
   >5.	“Области”  "dropdown" dan foydalanib saytdagi viloyatlarni qidirib topib foydalanuvchiga korsatish.
---------
+
 Har bir html varaqni oz viloyatiga mos korinishda chiqarish: 3 ta button ega bolgan holda.
-> birinchi buttonda fotogalereya
->>ikkinchi buttonda  "информация из википедии"
->uchinchi buttonda "Место нахождения на карте мира"
-  >> va har bir html varaqda shu usulni qollash!
+birinchi buttonda fotogalereya
+ikkinchi buttonda  "информация из википедии"
+uchinchi buttonda "Место нахождения на карте мира"
+va har bir html varaqda shu usulni qollash!
 
 
 ###Footer

@@ -27,19 +27,20 @@
     margin-top: 10px;
 }
 .social-share>li>a:hover{
-    color: mediumblue;
+    color:#3294bd;
     font-size: 24px;
     background: red;
 }
 .navbar-brand{
     padding-top: 20px;
     margin-top: -30px;
+
 }
 .navbar-inverse{
     background-color:#000000;
 }
 .navbar-nav>li>a{
-font-size: 17px;
+font-size: 19px;
 
 }
 .navbar-nav>li>a:hover{
@@ -58,8 +59,8 @@ font-size: 17px;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-    background-color: #007BB6;
-    color:#ffffff;
+
+    color:#3294bd;
 }
 .dropdown-menu {
     background-color: #000000;
@@ -73,8 +74,17 @@ font-size: 17px;
 }
 
 .text-center:hover{
-    font-size: 55px;
-    color: red;
+font-size: 40px;
+    color: #3294bd;
+}
+.navbar-brand>h1{
+    color: #3294bd;
+
+}
+.navbar-brand>h1:hover{
+    color: #3294bd;
+    font-size: 40px;
+
 }
 .carousel-inner{
     width: 100%;
