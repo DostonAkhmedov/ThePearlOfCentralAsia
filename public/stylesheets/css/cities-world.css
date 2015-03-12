@@ -62,14 +62,14 @@ font-size: 19px;
 
     color:#3294bd;
 }
-.dropdown-menu {
-    background-color: #000000;
-    color: red;
+.dropdown-menu li a{
+   font-size: 18px;
+    color: #3294bd;
 
 }
-.dropdown-menu. li a :hover{
-    background-color: #000000;
-    color: #ffffff;
+.dropdown-menu li a:hover{
+    font-size: 18px;
+    color: red;
 
 }
 

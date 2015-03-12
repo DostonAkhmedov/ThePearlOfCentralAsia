@@ -1,39 +1,15 @@
 @(message: String)
 
-@main("Welcome to Play") {
- <body class="main-bg">
-  <nav class="navbar navbar-inverse" role="navigation">
-   <div class="container">
-    <div class="navbar-header">
-     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-      <span class="sr-only">Toogle</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-     </button>
-     <a class="navbar-brand" href="#"><h1>Узбекистан<h1></a>
+@main("Uzbekistan") {
+    @navbar()
+    <div class="container main-content">
+
+        <div class="jumbotron">
+            <h1>Жемчужина Средней Азии</h1>
+            <p>Узбекистана - это своеобразное собрание удивительных и знаменательных фактов из жизни людей, которые начали писать историю этого края с таких давних пор, что полет фантазии современного человека способен даже затеряться в безграничном пространстве времени. Все, что пережил Узбекистан за эти долгие тысячелетия вряд ли можно уместить на страницах толстых учебников или пособий, ведь жизнь человека, его достижения, успехи, страдания и горести не всегда поддаются точному описанию, а если кто-то и пытается это сделать, то им становится профессиональный писатель, который способен прочувствовать все, что может хоть каким-то образом коснуться его героя. Но история и историки - это совсем другое. Они лишь констатируют факты и описывают события. А для полноценной передачи информации об описываемом ими времени этого мало. Однако следует признать, что история - это наука о фактах и спорить с этим определением не имеет смысла. Но даже несмотря на это, события, происходившие на территории Узбекистана настолько интересны, что порой излишние слова могут только усугубить представление читателя о прошлом.</p>
+            <p><a class="btn btn-primary btn-lg" href="http://www.centralasia-travel.com/ru/countries/uzbekistan/cuisine">УЗБЕКСКАЯ НАЦИОНАЛЬНАЯ КУХНЯ</a></p>
+        </div>
+
+
     </div>
-    <div class="collapse navbar-collapse navbar-right">
-     <ul class="nav navbar-nav">
-      <li><a href="http://pogoda.uz"><i class="fa fa-sun-o"></i> Погода</a></li>
-      <li><a href="http://daryo.uz"><i class="fa fa-info-circle"></i> Новости</a></li>
-      <li><a href="http://maps.google.com"><i class="fa fa-globe"></i> Место нахождения на карте мира</a></li>
-      <li class="dropdown">
-       <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-download"></i> Oбласти </a>
-       <ul class="dropdown-menu">
-        <li><a href="#">-------</a></li>
-        <li><a href="#">------</a></li>
-        <li><a href="#">-------</a></li>
-
-       </ul>
-
-      </li>
-     </ul>
-    </div>
-   </div>
-  </nav>
-<h1 class="text-center"><i class="fa fa-leaf"></i> Жемчужина Cредней Азии <i class="fa fa-leaf"></i></h1>
-
- </body>
-
 }
