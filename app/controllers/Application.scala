@@ -10,7 +10,7 @@ object Application extends Controller {
   }
 
   def list = Action{
-    Ok(views.html.list("hjdc"))
+    Ok(views.html.list("cities"))
   }
 
 }
