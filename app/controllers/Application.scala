@@ -9,8 +9,8 @@ object Application extends Controller {
     Ok(views.html.index("Your new application is ready."))
   }
 
-  def list = Action {
-    Ok(views.html.list())
+  def list = Action{
+    Ok(views.html.list("hjdc"))
   }
 
 }
